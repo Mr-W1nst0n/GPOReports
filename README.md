@@ -1,4 +1,11 @@
 # Export and Review GPOs
+The script will generate 2 different ouput in csv format:  
+1 containing the Disabled GPO *(DisabledGPOSummary.csv)*  
+1 containing a Summary for all Enabled GPO *(AllGPOSummary.csv)*  
+
+For each GPO an export in XML format, a Backup, and a PolicyRules definition will be generated  
+
+You can later on import all PolicyRules definition in the MSFT PolicyAnalyzer Tool to check for discrepancies/conflicts
 
 ### Components:
 
