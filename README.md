@@ -3,7 +3,7 @@
 ### Components:
 
 - Main PowerShell script
-- MSFT PolicyAnalyzer Tool
+- MSFT PolicyAnalyzer Tool *(<a href="https://www.microsoft.com/en-us/download/details.aspx?id=55319" target="_blank">Download Link Latest Version</a>)*
 
 ### Execution:
 
