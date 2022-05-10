@@ -19,5 +19,5 @@ You can later on import all PolicyRules definition in the MSFT PolicyAnalyzer To
 ```
 
 ### Limitation:
-The current version of Policy Analyzer covers most areas of Group Policy, but does not yet include support for analysis of  
+The current version of Policy Analyzer covers most areas of Group Policy, but does not yet include support for analysis of
 Group Policy Preferences, nor of startup, shutdown, logon, or logoff scripts
